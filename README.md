@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone git@github.com:b-k/git-fetcho.git
+git clone https://github.com/b-k/git-fetcho.git
 cd git-fetcho
 make fetch
 ```

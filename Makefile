@@ -5,4 +5,4 @@ install:
 		install -m 0755 git-fetcho $(prefix)/bin
 
 fetch:
-	@echo "Stop trying to make fetch happen."
+	@echo "Stop trying to make fetch happen, $(USER)."
