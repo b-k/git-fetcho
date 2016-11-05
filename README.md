@@ -5,7 +5,7 @@
 ```bash
 git clone git@github.com:stvnrlly/git-fetcho.git
 cd git-fetcho
-make install
+make fetch
 ```
 
 ## Public domain
